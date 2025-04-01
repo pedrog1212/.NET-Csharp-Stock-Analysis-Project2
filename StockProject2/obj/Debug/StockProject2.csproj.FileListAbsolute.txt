@@ -1,0 +1,11 @@
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\bin\Debug\StockProject2.exe.config
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\bin\Debug\StockProject2.exe
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\bin\Debug\StockProject2.pdb
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.csproj.AssemblyReference.cache
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.Form_mainUI.resources
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.Properties.Resources.resources
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.csproj.GenerateResource.cache
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.csproj.CoreCompileInputs.cache
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.exe
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.pdb
+C:\Users\glezp\Downloads\StockProjectC#\StockProject2\obj\Debug\StockProject2.Form_chartDisplay.resources
